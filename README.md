@@ -1,4 +1,4 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # How to Measure Swipe Speed
 A wearable app built with ArkTS + ArkUI that measures swipe speed in real time, detects direction, and visualizes results with a gauge, color feedback, and basic swipe statistics.
